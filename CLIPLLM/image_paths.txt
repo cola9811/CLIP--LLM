@@ -1,0 +1,1450 @@
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000008.jpg
+Foreground: The foreground features a horse and rider skillfully jumping over a colorful obstacle in an equestrian arena
+Background: The background includes a clear sky and some distant trees, suggesting an outdoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000019.jpg
+Foreground: In the foreground, two dogs are playfully interacting on a sandy surface
+Background: In the background, another dog is standing and observing the playful scene
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000028.jpg
+Foreground: The foreground of the image features a street with a few cars and a sidewalk lined with street lamps
+Background: The background consists of a row of multi-story buildings with various storefronts and windows
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000041.jpg
+Foreground: The foreground of the image features a group of people sitting around a table with a white tablecloth, engaged in conversation
+Background: In the background, there are decorative elements such as a lattice wall with flowers and a door with a window
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000045.jpg
+Foreground: The foreground of the image features a red and white train with the number 3232, parked at a station platform
+Background: The background shows a spacious train station with a high, arched ceiling and additional trains visible in the distance
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000053.jpg
+Foreground: The foreground features a close-up of a dog with a brindle coat and a red collar
+Background: The background consists of a wall with vertical striped patterns
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000060.jpg
+Foreground: The foreground of the image features a cat with distinctive striped fur and bright eyes
+Background: In the background, there is a carpeted floor and part of a wooden chair visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000066.jpg
+Foreground: The foreground features a dog with a polka-dotted collar, looking directly at the camera
+Background: The background is a solid black color, providing a stark contrast to the dog
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000070.jpg
+Foreground: The foreground of the image features two folding chairs placed on a carpeted floor
+Background: The background consists of a large window with vertical blinds and a ceiling fan with lights
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000074.jpg
+Foreground: The foreground features a sleek, silver BMW car parked on a smooth, paved surface
+Background: The background consists of a rugged, rocky cliff with patches of greenery
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000085.jpg
+Foreground: The foreground of the image features a damaged black SUV with a shattered rear window and a crumpled rear door
+Background: The background shows a road with a sunset sky, transitioning from orange to blue
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000089.jpg
+Foreground: The foreground features a wooden chair with a simple design, positioned on a blue carpet
+Background: The background includes a light blue wall with a window and a wooden frame, providing a serene setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000093.jpg
+Foreground: The foreground of the image features a seating area with two patterned couches and a rectangular coffee table
+Background: In the background, there is a wall-mounted television and a framed picture hanging above the seating area
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000096.jpg
+Foreground: The foreground features a person holding a fluffy cat
+Background: The background includes a window with blue curtains and a wall with a light color
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000099.jpg
+Foreground: In the foreground, a brown sheep is grazing on grass
+Background: In the background, a wooden fence and greenery can be seen
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000105.jpg
+Foreground: The foreground of the image features a black car parked on the side of a road
+Background: The background includes a rural landscape with trees and a wooden fence
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000109.jpg
+Foreground: The foreground features a white car with a person sitting on its hood
+Background: In the background, there is a motorcycle parked on a gravel driveway with a grassy area and a building visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000128.jpg
+Foreground: The foreground features a person sitting on a beige couch, holding a baby wrapped in a white blanket
+Background: The background includes a wooden cabinet, a green pillow, and a window with blinds
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000132.jpg
+Foreground: The foreground features a yellow school bus with an emergency exit door and two people standing on its roof holding a large banner
+Background: The background consists of a clear blue sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000141.jpg
+Foreground: The foreground of the image features a brown horse with a white blaze on its face, standing on grass near a body of water
+Background: In the background, there are trees and a person standing by the water's edge
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000142.jpg
+Foreground: The foreground features a person interacting with a brown horse by a grassy area
+Background: The background consists of a serene pond surrounded by trees and a clear blue sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000143.jpg
+Foreground: The foreground of the image features a person performing a wheelie on a motorcycle
+Background: In the background, there is a car driving on a road with trees lining the side
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000144.jpg
+Foreground: The foreground of the image shows a person performing a wheelie on a motorcycle
+Background: The background features a road with trees and a clear sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000162.jpg
+Foreground: The foreground of the image features a close-up of a dog with large, floppy ears and a white and brown coat
+Background: The background consists of a natural setting with scattered leaves and small stones on the ground
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000176.jpg
+Foreground: The foreground features a person standing next to a black stretch limousine
+Background: In the background, there are trees and a clear sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000181.jpg
+Foreground: The foreground of the image features a ginger cat curled up and sleeping on a blue surface
+Background: The background consists of a plain, textured blue fabric that appears to be part of a sofa or cushion
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000185.jpg
+Foreground: The foreground of the image features a vintage sports car with a sleek design and racing stripes, driving on a track
+Background: The background consists of a smooth, paved race track with a low wall and some grass visible in the distance
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000187.jpg
+Foreground: The foreground of the image features a white racing car with the number 33, moving quickly on a track
+Background: The background consists of a blurred building and some spectators, indicating a racing event setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000188.jpg
+Foreground: The foreground of the image features a potted plant with green leaves in a metallic pot, placed on a wooden surface
+Background: The background shows a window with a view of an outdoor area with some plants and a concrete structure
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000189.jpg
+Foreground: The foreground of the image features a bright yellow race car with a red helmeted driver, racing on a track
+Background: The background consists of a grassy area with a line of tires stacked along the edge of the track
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000199.jpg
+Foreground: The foreground of the image features a stone wall with greenery and a red and white striped barrier
+Background: In the background, there is a parked car and a building with graffiti on the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000207.jpg
+Foreground: The foreground features a person wearing a black top and leather boots, standing confidently with one hand on their hip
+Background: The background is a solid red color, providing a stark contrast to the subject
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000217.jpg
+Foreground: The foreground of the image shows two people dressed in winter clothing, standing close together in a snowy setting
+Background: The background features a forest with tall trees and a clear sky, indicating a sunny day
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000226.jpg
+Foreground: The foreground of the image features a small white car with the number 53, positioned near a body of water with a railing
+Background: In the background, there is a large white truck with a logo and several people standing near a covered object
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000227.jpg
+Foreground: The foreground of the image features a gray cat lying on a wooden table next to a colorful ceramic dish
+Background: In the background, there is a wooden chair and a stack of magazines or books on the table
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000236.jpg
+Foreground: The foreground of the image features a person with curly blonde hair and glasses, reflected in a mirror
+Background: The background consists of a textured wall with geometric patterns and a tiled surface
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000237.jpg
+Foreground: The foreground of the image features a white truck with a red car on top, parked in a street setting
+Background: The background consists of colorful buildings with signs and windows, creating a vibrant urban atmosphere
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000238.jpg
+Foreground: The foreground of the image features a yellow school bus with the words "AYR Student Transportation" written on its side
+Background: The background is dark, suggesting it is nighttime with no visible landmarks or structures
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000252.jpg
+Foreground: The foreground of the image features a person standing on a snowy ground near a tree
+Background: In the background, there is a bus with a leopard design parked beside a bench
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000259.jpg
+Foreground: The foreground features a band performing on stage with a drummer, guitarist, and vocalist illuminated by spotlights
+Background: The background consists of darkened walls and a few windows, creating a moody atmosphere typical of a concert venue
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000260.jpg
+Foreground: The foreground features a person standing on a dirt road with military vehicles parked nearby
+Background: In the background, there are tents and a mountainous landscape with trees
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000266.jpg
+Foreground: The foreground features a group of people, including children and adults, dressed in colorful clothing, posing together
+Background: The background includes a living room setting with a sofa, a shelf with decorative items, and a framed picture on the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000273.jpg
+Foreground: The foreground of the image features two dogs lying on a carpeted floor, enjoying the sunlight
+Background: The background includes wooden furniture and window frames casting shadows on the floor
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000275.jpg
+Foreground: The foreground of the image features a group of people standing outside a colorful bookstore with a sign that reads "J
+Background: K
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000283.jpg
+Foreground: The foreground features a child holding a colorful toy and a small object, standing on a carpeted floor with various toys scattered around
+Background: The background includes a wooden wall with a large mirror reflecting the room, showing a toy cart and additional items
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000284.jpg
+Foreground: The foreground features a person sitting on a wooden chair, wearing black clothing and sneakers
+Background: The background includes a brick wall, a plant, and a jukebox
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000287.jpg
+Foreground: The foreground features two pots with red flowering plants, one white and one yellow, placed on a concrete surface
+Background: The background consists of a textured beige wall with a small vent and some scattered leaves
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000289.jpg
+Foreground: The foreground features a person standing next to a beautifully decorated Christmas tree
+Background: The background includes a wooden wall with a framed emblem and some festive decorations
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000297.jpg
+Foreground: The foreground features two individuals sitting on chairs, one with their leg extended across the other's lap
+Background: In the background, there is a kitchen area with a refrigerator, cabinets, and a stove
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000309.jpg
+Foreground: The foreground of the image features a cluttered desk with a computer setup, including a monitor, keyboard, and speakers, along with various items such as a soda can and a glass
+Background: In the background, there is a bookshelf filled with books and decorative items, and a lamp on a side table
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000311.jpg
+Foreground: The foreground features two individuals sitting at a table with bowls of noodles, one holding chopsticks and the other with hands covering their face
+Background: The background shows a restaurant setting with vertical wooden panels and several patrons seated at tables
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000313.jpg
+Foreground: The foreground features a child wearing a dress, surrounded by colorful toys and a box
+Background: In the background, there is a wooden chair and a playpen with a toy placed inside
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000316.jpg
+Foreground: The foreground features a baby dressed in a white outfit, lying on a soft pink blanket with a floral design
+Background: The background consists of a dark, indistinct area that contrasts with the bright colors of the blanket and the baby's clothing
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000330.jpg
+Foreground: The foreground of the image features a dog with a red muzzle and a person holding its leash
+Background: The background consists of a paved surface with small stones and a person wearing casual clothing
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000335.jpg
+Foreground: The foreground of the image features a black and white cow standing behind a metal fence
+Background: In the background, there are several cows lying on the ground under a clear blue sky with scattered clouds
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000336.jpg
+Foreground: The foreground of the image features a brown and white dog sitting next to a large tree trunk
+Background: The background consists of a vast, open field under a partly cloudy sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000338.jpg
+Foreground: The foreground features two people playing a table hockey game with a bowl of fruit on the table
+Background: In the background, there is a living room setting with a Christmas tree and a painting on the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000343.jpg
+Foreground: The foreground features a person walking along a train platform next to a green and yellow train
+Background: In the background, there is a train station with overhead wires and a cloudy sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000346.jpg
+Foreground: The foreground features a yellow sports car and a black classic car parked side by side
+Background: In the background, there is a multi-story building with a blue awning and palm trees
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000348.jpg
+Foreground: The foreground of the image features a wooden desk with a computer monitor, keyboard, and mouse
+Background: The background includes a shelving unit with various items and a bulletin board with papers and drawings
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000364.jpg
+Foreground: In the foreground, two people are standing in front of a display of colorful t-shirts
+Background: The background features a wall covered with various branded and themed t-shirts
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000365.jpg
+Foreground: The foreground of the image features a person wearing a helmet and gloves, sitting on a rock
+Background: The background showcases a scenic landscape with rolling hills and a cloudy sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000371.jpg
+Foreground: The foreground of the image features a person riding a horse inside an indoor arena
+Background: The background shows the wooden structure of the arena with natural light filtering through the windows
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000380.jpg
+Foreground: The foreground features three individuals sitting closely together, with one person holding a newspaper
+Background: The background consists of a ceiling with several recessed lights and a wall with a vent
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000392.jpg
+Foreground: The foreground features a person standing in a dimly lit room, holding a string of party decorations
+Background: In the background, there is a bar area with a person seated and various signs on the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000393.jpg
+Foreground: The foreground of the image features several individuals dressed in traditional attire, standing near parked scooters
+Background: In the background, there is a building with a corrugated metal roof and various items hanging outside, including clothing and a sign
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000397.jpg
+Foreground: The foreground features a polished wooden dining table with a decorative runner and two vases
+Background: In the background, there is a living area with a patterned wall hanging and various pieces of furniture
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000399.jpg
+Foreground: The foreground of the image features a classic blue convertible car parked on a gravel driveway
+Background: In the background, there are several trees and a cloudy sky, with a house partially visible behind the foliage
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000415.jpg
+Foreground: The foreground of the image features a person wearing a white shirt and a cap, sitting on a boat with a railing
+Background: In the background, there is a large, historic building with a clock tower, surrounded by lush green trees and a body of water
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000416.jpg
+Foreground: The foreground features a person holding two cups with straws
+Background: The background shows a bar setting with various bottles and a television screen
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000421.jpg
+Foreground: In the foreground, three people are sitting on a couch, with one person holding a can
+Background: In the background, there is a window with blinds and a small table with a plant and cups
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000422.jpg
+Foreground: The foreground features a child sitting on a grassy area, wearing a purple outfit and a bib
+Background: In the background, there is a dense green hedge or shrubbery
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000426.jpg
+Foreground: The foreground features a child wearing a yellow hat with a cartoon character on it
+Background: The background is a blurred, indistinct area with muted colors
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000428.jpg
+Foreground: The foreground of the image features a black horse walking on a dirt path
+Background: The background consists of a wooden fence and a distant landscape with trees and hills
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000432.jpg
+Foreground: The foreground features a child standing near a cabinet, holding a container with a lid
+Background: In the background, there is a kitchen setting with wooden cabinets and a chair
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000435.jpg
+Foreground: The foreground of the image features a table with a teapot, cups, and a menu
+Background: The background shows a restaurant setting with booths and additional tables
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000436.jpg
+Foreground: The foreground features a baby seated in a blue high chair with a white and blue patterned cushion
+Background: In the background, there is a wooden cabinet and a white air conditioning unit
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000442.jpg
+Foreground: The foreground features a baby seated on someone's lap, wearing a bib and a yellow shirt
+Background: The background includes a couch with a light-colored cushion and a person wearing a red shirt
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000443.jpg
+Foreground: The foreground of the image features a baby sitting on a colorful play mat, holding a green toy
+Background: In the background, there is a person sitting on the floor, partially visible, with a beige cushion or chair nearby
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000445.jpg
+Foreground: The foreground of the image features a baby wearing a bib with a panda design, sitting in a colorful toy car with various playful elements
+Background: The background includes a beige sofa with a patterned cushion, providing a cozy indoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000447.jpg
+Foreground: In the foreground, a person is holding a baby dressed in a light green outfit, with a penguin toy nearby
+Background: The background features a beige couch with a blue pillow and a white wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000448.jpg
+Foreground: The foreground features a person holding a baby wearing a yellow hat
+Background: The background shows a variety of purses and bags displayed on shelves
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000455.jpg
+Foreground: The foreground of the image features a person with curly, golden hair
+Background: The background is a plain, neutral-colored wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000461.jpg
+Foreground: The foreground features a person wearing a dark blue shirt with white piping
+Background: In the background, there are people sitting at a table in a dimly lit indoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000470.jpg
+Foreground: The foreground of the image features a red train with multiple windows, traveling through a snowy landscape
+Background: In the background, snow-covered mountains rise steeply, with power lines and a few structures visible amidst the winter scenery
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000480.jpg
+Foreground: In the foreground, two individuals are holding a large, colorful kite on a grassy field
+Background: In the background, a line of trees and a few other people can be seen, indicating an open park or field setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000488.jpg
+Foreground: The foreground of the image features a parked car on a street in front of a large, ornate building
+Background: The background showcases a grand, castle-like structure with intricate architectural details and a red-tiled roof
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000491.jpg
+Foreground: The foreground of the image features a close-up of a terracotta pot with a green cactus plant
+Background: The background consists of a blurred view of additional terracotta pots and a window
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000493.jpg
+Foreground: The foreground features a person sitting on a brown couch holding a baby wrapped in a blue blanket, with a child sitting beside them
+Background: In the background, there is a dining table with chairs and a window with curtains
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000499.jpg
+Foreground: The foreground of the image features a person riding a horse, with the horse in motion and the rider wearing a helmet
+Background: The background consists of a wooded area with tall trees and a wooden fence
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000502.jpg
+Foreground: The foreground of the image features two cats sitting on a countertop, one on top of a radio
+Background: The background shows a window with a wooden fence outside
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000514.jpg
+Foreground: The foreground features two individuals sitting closely together, one dressed in a black robe and the other in a light-colored shirt
+Background: In the background, there is a bookshelf filled with books and a person wearing a pink shirt
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000527.jpg
+Foreground: The foreground features a baby lying on a bed, wearing a colorful onesie with various patterns
+Background: The background consists of a white bedspread with a subtle grid pattern, and a yellow toy is visible near the baby's head
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000540.jpg
+Foreground: The foreground features a person wearing a white shirt with a logo and a lanyard around their neck
+Background: The background consists of a brick wall with a pattern of alternating light and dark tiles
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000544.jpg
+Foreground: The foreground features a person standing on a wooden platform, holding a book with illustrations of birds
+Background: In the background, there are large industrial structures and greenery under a partly cloudy sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000545.jpg
+Foreground: The foreground of the image features a person riding a motorcycle, captured mid-jump over a grassy area
+Background: The background consists of a line of trees and an open sky, suggesting a rural or countryside setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000548.jpg
+Foreground: The foreground features a couple dressed in formal attire, with the man in a suit and the woman in a white dress holding a bouquet
+Background: The background includes a colorful mural with abstract designs and large, illuminated lampshades
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000552.jpg
+Foreground: The foreground of the image features a jockey in red and white attire riding a brown horse on a grassy track
+Background: The background consists of a blurred landscape with trees and distant buildings
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000559.jpg
+Foreground: The foreground of the image features a fluffy, light-colored dog with a gentle expression
+Background: The background is blurred, with soft, warm tones that suggest an outdoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000561.jpg
+Foreground: The foreground features a group of cheerleaders dressed in blue and yellow uniforms, posing closely together
+Background: The background shows an indoor setting with a plain wall and some indistinct objects
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000563.jpg
+Foreground: The foreground features a person dressed in a red coat and tricorn hat, standing next to a small red motorbike
+Background: In the background, there is a street scene with a car parked and a building with windows
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000572.jpg
+Foreground: The foreground of the image features a stack of various drinking glasses on a wooden table
+Background: In the background, there is a person sitting at the table with a striped curtain visible behind them
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000578.jpg
+Foreground: The foreground of the image features a computer monitor with a red rubber duck placed on top
+Background: In the background, there is a person with braided hair sitting at a desk with various office supplies and a calendar on the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000583.jpg
+Foreground: The foreground features two children standing on a grassy area next to a wooden utility pole
+Background: In the background, there is a road with a stop sign, a parked car, and a house partially visible among trees
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000584.jpg
+Foreground: In the foreground, a person is standing on a set of steps in front of a building entrance
+Background: The background features a grand entrance with ornate columns and a decorative glass door
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000588.jpg
+Foreground: In the foreground, a child is feeding another child who is seated in a high chair
+Background: In the background, a kitchen counter with various items and a window with curtains can be seen
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000595.jpg
+Foreground: The foreground of the image features a black car parked on the street
+Background: The background consists of a pink building with ornate balconies and a store with a green awning
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000607.jpg
+Foreground: The foreground features a person with long hair and sunglasses
+Background: The background shows an outdoor area with a building and a landscaped garden
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000613.jpg
+Foreground: The foreground features two race cars with blue and white livery, adorned with various sponsor logos
+Background: In the background, there are people standing near a motorsports trailer, with a green wall partially visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000619.jpg
+Foreground: The foreground of the image features a cat drinking from a garden hose on a patch of grass
+Background: In the background, there are parked cars and houses lining a quiet residential street
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000626.jpg
+Foreground: The foreground of the image features a colorful armchair with patterned cushions and a small round side table
+Background: In the background, there are two windows with floral-patterned curtains and a radiator beneath them
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000628.jpg
+Foreground: The foreground of the image shows a person sitting inside a vehicle, wearing a white shirt
+Background: The background features a lush, green landscape with trees and foliage
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000636.jpg
+Foreground: In the foreground, a person is holding a baby dressed in a light blue outfit with a cartoon character
+Background: The background features a cozy living room setting with a wooden column and a window showing greenery outside
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000641.jpg
+Foreground: The foreground features a small black and tan dog lying on a fluffy white rug, looking directly at the camera
+Background: In the background, a large gray cat is curled up and sleeping on the same rug, partially in the sunlight
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000645.jpg
+Foreground: The foreground of the image features a baby dressed in white lying on a quilted bedspread
+Background: The background consists of a plain wall with no visible decorations or furniture
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000646.jpg
+Foreground: The foreground of the image features a baby lying on a white surface, wearing a diaper and holding its feet
+Background: The background consists of a plain, light-colored wall with no additional decorations or objects
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000650.jpg
+Foreground: The foreground features a baby wearing a dark-colored hoodie with a logo on the chest
+Background: In the background, there is a piece of furniture, possibly a sofa or a chair, and a dark-colored object, possibly a cabinet or a piece of electronic equipment
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000655.jpg
+Foreground: The foreground features a person wearing a blue plaid shirt holding a sleeping baby wrapped in a colorful blanket
+Background: In the background, there is a lamp and part of a wooden chair visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000669.jpg
+Foreground: The foreground of the image features a sheep with thick, curly wool covering its body
+Background: The background consists of a grassy area with patches of green and brown, suggesting a natural outdoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000672.jpg
+Foreground: The foreground features a child holding a colorful book with an orange and yellow cover
+Background: In the background, there is a wooden floor and a piece of furniture with a red edge
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000674.jpg
+Foreground: The foreground of the image features a person holding a child who is reaching out towards a mossy surface
+Background: The background consists of lush greenery and trees, suggesting a natural outdoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000676.jpg
+Foreground: The foreground features two dogs wearing goggles, with one dog looking directly at the camera and the other slightly turned away
+Background: In the background, there is a blurred view of a parking lot and some buildings
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000683.jpg
+Foreground: In the foreground, a person is holding a newborn baby wrapped in a blanket
+Background: In the background, there is a wooden crib and a radiator against the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000689.jpg
+Foreground: The foreground features a motorcyclist in full gear leaning into a turn on a sportbike
+Background: In the background, a group of spectators is visible behind a barrier, watching the event
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000694.jpg
+Foreground: The foreground features a person holding a glass mug with a beverage
+Background: The background shows a lively bar setting with people gathered and various decorations, including a Guinness sign and an American flag
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000696.jpg
+Foreground: The foreground of the image features a horse standing amidst yellow flowers
+Background: The background consists of a wire fence and trees, with the scene appearing in black and white except for the yellow flowers
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000704.jpg
+Foreground: The foreground features a person sitting on a red and yellow couch with a relaxed posture
+Background: In the background, there is a living room setting with a lamp, a chair, and a framed picture on the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000711.jpg
+Foreground: The foreground of the image features a group of brown cows, including a calf lying in the grass
+Background: The background consists of lush greenery and trees, providing a natural setting for the cows
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000719.jpg
+Foreground: The foreground features a person wearing a yellow raincoat and a reflective safety vest
+Background: The background shows a rural area with parked vehicles and a dirt road
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000721.jpg
+Foreground: The foreground of the image features a close-up of a dog's face, with its eyes closed and a gentle expression
+Background: The background consists of a darkened room with a window and some indistinct objects, creating a contrast with the illuminated dog
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000723.jpg
+Foreground: The foreground features two individuals standing on a dirt path, with one holding a jar
+Background: The background consists of a clear blue sky and a line of trees in the distance
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000724.jpg
+Foreground: The foreground of the image features a close-up of a cat with distinctive whiskers and a patterned coat
+Background: The background consists of a softly lit, neutral-colored wall with a portion of a patterned fabric visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000726.jpg
+Foreground: The foreground of the image features a baby resting peacefully on a person's arm
+Background: The background consists of a green shirt and part of a wooden surface
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000729.jpg
+Foreground: The foreground features a baby being held by an adult, with the baby wearing a colorful striped shirt
+Background: The background consists of a dark, indistinct area that suggests an indoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000732.jpg
+Foreground: The foreground features a person holding a baby wearing a bib with text
+Background: The background includes floral wallpaper and a kitchen counter with various items
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000733.jpg
+Foreground: The foreground features a baby seated in a car seat, wearing a bib and holding a yellow object
+Background: The background consists of a patterned rug and a tiled floor
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000742.jpg
+Foreground: The foreground features a person holding a child, both dressed in casual clothing
+Background: The background consists of a plain wall and a dark couch
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000753.jpg
+Foreground: In the foreground, a person is leaning over a snow-covered object, surrounded by tall, dry grasses
+Background: In the background, there is a modern structure with a curved roof and several street lamps
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000758.jpg
+Foreground: The foreground features a playful toy pirate ship with a steering wheel and various colorful elements
+Background: The background consists of a warm-toned wall with a wooden texture
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000760.jpg
+Foreground: The foreground features a green upholstered chair with a metal frame
+Background: In the background, there are various other chairs and sofas displayed in a showroom setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000761.jpg
+Foreground: The foreground features a dog with a colorful, multicolored head resting on a dark blanket
+Background: The background consists of a patterned couch with intricate designs
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000775.jpg
+Foreground: The foreground of the image features a baby lying on a green blanket with a colorful striped shirt and orange shorts
+Background: The background consists of a brown couch with a patterned pillow and some clothing items
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000777.jpg
+Foreground: The foreground features a person wearing a dark blue t-shirt with a small logo on the chest
+Background: The background includes a wall with a shelf holding various items and a framed picture
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000778.jpg
+Foreground: In the foreground, a person is standing near a clothes rack filled with various items of clothing
+Background: The background features a grassy area with some greenery and a few small white flowers scattered around
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000790.jpg
+Foreground: The foreground of the image features a neatly arranged garden with various potted plants and flowers along a wooden fence
+Background: In the background, there is a patio area with a white table and chairs, partially shaded by a floral-patterned umbrella
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000792.jpg
+Foreground: The foreground of the image features a group of people walking on a cobblestone street with bicycles parked along the sidewalk
+Background: In the background, a multi-story building with a Hard Rock Cafe sign and a large guitar emblem is visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000808.jpg
+Foreground: The foreground features a pug wearing a camouflage jacket with a red heart-shaped tag
+Background: In the background, there are cardboard boxes and a person wearing blue jeans and brown shoes
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000814.jpg
+Foreground: The foreground features two individuals sitting closely together, one holding a drink and the other gesturing with a thumbs-up
+Background: The background consists of dark, dimly lit windows with reflections of light
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000815.jpg
+Foreground: The foreground features a person standing on a concrete path, wearing a leather jacket and jeans, with a small white puppy sitting on the grass nearby
+Background: The background consists of a house with a light illuminating the exterior wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000824.jpg
+Foreground: The foreground of the image features a cat lounging on a patterned armchair
+Background: In the background, there is a table with various magazines and a shelf with books and decorative items
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000829.jpg
+Foreground: In the foreground, a small dog is being held by a person
+Background: In the background, there is a wooden door and a wall with some items on it
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000841.jpg
+Foreground: The foreground features a person wearing a gray hoodie with a necklace, standing close to another individual
+Background: The background consists of a white door with a mail slot and a brick wall, with green plants on either side
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000844.jpg
+Foreground: The foreground features two individuals standing on rocky terrain, with one holding the other's hand
+Background: The background showcases a vast canyon landscape with layered rock formations and a clear sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000847.jpg
+Foreground: In the foreground, a person is holding a fluffy gray cat
+Background: In the background, there is a house with a patio area and some outdoor furniture
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000854.jpg
+Foreground: The foreground of the image features a person on a motorcycle, wearing protective gear, standing on a sandy terrain
+Background: In the background, there are several vehicles and people, also on the sandy ground, with a clear blue sky above
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000860.jpg
+Foreground: The foreground of the image features a cat lying on the floor next to a baking tray and a small decorative object
+Background: The background includes a radiator and wooden furniture, with a patterned rug partially visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000867.jpg
+Foreground: The foreground of the image features a shopping center entrance with a sign that reads "Walt Whitman
+Background: " The background includes a clear sky and some trees surrounding the building
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000870.jpg
+Foreground: In the foreground, a person is sitting on a beige couch holding a package
+Background: The background features a brick fireplace with decorative items on the mantel and a window with curtains
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000873.jpg
+Foreground: The foreground of the image features a person with long brown hair wearing a black sleeveless top, holding a glass with a yellow straw
+Background: In the background, there are several people gathered in what appears to be a dimly lit indoor setting, possibly a bar or club
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000875.jpg
+Foreground: In the foreground, a child is sitting in a small boat, holding a fishing net
+Background: In the background, the beach stretches out with people enjoying the ocean and waves gently lapping the shore
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000881.jpg
+Foreground: The foreground of the image features individuals dressed in period costumes, with one person holding a wooden object and another wearing a white headscarf
+Background: The background consists of a red fabric backdrop with a wooden structure and trees visible beyond
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000887.jpg
+Foreground: The foreground features a person standing on a narrow street, leaning against a stone wall
+Background: The background shows a long, narrow alley flanked by old stone buildings with chimneys and a person walking in the distance
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000899.jpg
+Foreground: The foreground of the image features a person with long, flowing hair
+Background: The background is dark and indistinct, providing a stark contrast to the subject
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000901.jpg
+Foreground: The foreground of the image features a dog with a colorful collar, looking upwards
+Background: The background shows a window with a view of a patio and some greenery outside
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000902.jpg
+Foreground: The foreground features a person wearing a brown coat with a white accessory in their hair, holding a glass
+Background: In the background, there is another person wearing a dark coat with a red scarf
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000905.jpg
+Foreground: The foreground of the image features a Highland cow with long, shaggy brown fur and prominent curved horns
+Background: In the background, there are trees and a partly cloudy sky, suggesting a rural landscape
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000908.jpg
+Foreground: The foreground of the image shows a group of people standing on a grassy hillside
+Background: The background features a clear blue sky with a few scattered clouds
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000912.jpg
+Foreground: The foreground of the image features a brown horse standing close to a fence
+Background: In the background, there is another horse grazing in a grassy area surrounded by trees
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000914.jpg
+Foreground: The foreground of the image features a modern, wooden lounge chair with a black cushion and an accompanying footrest
+Background: In the background, there are large windows with a view of a garden with greenery and flowers
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000923.jpg
+Foreground: The foreground of the image features a memorial with a statue of an angel, flowers, and various small figurines
+Background: The background shows a dry, barren landscape with a fence and some distant structures
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000924.jpg
+Foreground: The foreground features a child holding a blue sippy cup while seated in a stroller
+Background: In the background, there is a person wearing blue jeans and white shoes standing on a gravel path
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000928.jpg
+Foreground: The foreground features two individuals, one holding a professional video camera and the other wearing a striped shirt and tie
+Background: In the background, there is a busy street scene with people walking and buildings lining the sidewalk
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000934.jpg
+Foreground: The foreground of the image features a black dog with a shiny coat and a collar, resting its head on a person's arm
+Background: The background shows a body of water with a wooden structure and a green railing, suggesting a boat or dock setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000941.jpg
+Foreground: The foreground of the image shows two people dancing together, with one person wearing a white top and black pants, and the other in a dark green sweater and black pants
+Background: In the background, there is a framed picture on the wall and a window with a lattice design and a potted plant visible outside
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000944.jpg
+Foreground: The foreground of the image features a vintage blue car with "Fabulous Hudson Hornet" written on its side
+Background: In the background, there is a grassy area with a white tent and several trees, alongside a building with a sign
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000959.jpg
+Foreground: The foreground of the image features a red convertible car parked on a driveway
+Background: In the background, there is a person standing near a trailer and some trees
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000970.jpg
+Foreground: The foreground features a group of people sitting on a bench, engaged in conversation and looking at a mobile phone
+Background: The background consists of a wall covered with various posters and graffiti, indicating an urban setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000973.jpg
+Foreground: The foreground of the image features a brown dog with a red collar, licking its nose
+Background: The background consists of a wooden deck with some blurred objects and a person partially visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000979.jpg
+Foreground: The foreground of the image features a striking red sports car with its doors open, showcasing its sleek design and modern features
+Background: In the background, there is a red tent-like structure with people standing around, suggesting an event or exhibition setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000981.jpg
+Foreground: The foreground of the image features a vintage motorcycle with a sidecar, prominently displayed on a red carpet
+Background: In the background, there is an indoor setting with various booths and displays, likely part of a motorcycle or automotive exhibition
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000985.jpg
+Foreground: The foreground features two individuals standing close together, with one wearing a gray coat and the other in a dark jacket
+Background: The background is dimly lit with colorful lights, suggesting an indoor setting such as a party or event
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000987.jpg
+Foreground: The foreground features a group of people wearing various colorful hats and casual clothing, posing together
+Background: The background shows a well-lit street with buildings and decorative street lamps, suggesting an urban setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_000999.jpg
+Foreground: The foreground of the image features a cat curled up inside a large, light-colored pot
+Background: In the background, there is a green plant and part of a window frame visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001021.jpg
+Foreground: The foreground features a person sitting in front of a small television displaying a scene with a red carpet
+Background: The background includes a wall with framed certificates and a magazine placed on top of the television
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001022.jpg
+Foreground: The foreground of the image features a blue double-decker bus with the "ARRIVA" logo, parked on a street
+Background: In the background, there are buildings with traditional architecture and a bus stop with an advertisement
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001023.jpg
+Foreground: The foreground of the image features two individuals standing close together, one wearing a light blue shirt with a design and the other in a white top
+Background: The background includes a wooden wall and a glass railing, suggesting an indoor setting with natural lighting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001026.jpg
+Foreground: The foreground features a person with styled hair and a decorative headpiece
+Background: The background is blurred, with a soft focus on what appears to be an outdoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001030.jpg
+Foreground: The foreground of the image features a red sofa with several pillows, including a heart-shaped one
+Background: The background consists of a yellow wall with six framed black and white photographs arranged in a grid
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001031.jpg
+Foreground: The foreground features a person riding a horse on a sandy surface
+Background: The background consists of a lush green forest and a white fence
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001035.jpg
+Foreground: In the foreground, a woman is pushing a stroller with a child standing beside her
+Background: In the background, there is a single-story house with a sloped roof and a small tree planted in the yard
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001036.jpg
+Foreground: The foreground features a person holding a baby, with the baby wearing a blue bib and a dark jacket
+Background: The background is blurred, showing an outdoor setting with natural light and some indistinct elements
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001039.jpg
+Foreground: The foreground of the image features a person standing on a dirt road, holding an object, with trees and vegetation on either side
+Background: The background shows a forested area with tall trees and a parked vehicle on the road
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001042.jpg
+Foreground: The foreground of the image features several parked cars, including a red vehicle and a white SUV
+Background: In the background, there is a multi-story hotel with palm trees lining the front
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001048.jpg
+Foreground: The foreground features two individuals on a sailboat, with one wearing an orange jacket and the other in a black cap and shirt
+Background: The background shows a vast body of water with other sailboats and a distant shoreline under a cloudy sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001052.jpg
+Foreground: In the foreground, a person is holding a baby in a kitchen setting
+Background: The background features wooden cabinets and various kitchen appliances
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001057.jpg
+Foreground: The foreground of the image features a group of people gathered closely together
+Background: The background shows a twilight sky with scattered clouds
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001071.jpg
+Foreground: The foreground of the image features two cats lying on a floral-patterned couch
+Background: The background consists of a colorful blanket with various designs and patterns
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001073.jpg
+Foreground: The foreground features a person sitting at a desk with a computer and various books
+Background: The background includes a curtain with a scenic design and a shelf with additional items
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001081.jpg
+Foreground: The foreground features a person with dark, curly hair
+Background: The background consists of a pattern of overlapping circles in varying sizes
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001083.jpg
+Foreground: The foreground features a group of people seated around a dining table set with plates, glasses, and various dishes
+Background: The background includes a window with curtains and a wall-mounted clock above the table
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001104.jpg
+Foreground: The foreground features two individuals standing near a window, one wearing a black shirt and the other in a blue shirt
+Background: In the background, there are houses and trees visible through the window, along with a parked white van
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001105.jpg
+Foreground: The foreground of the image features a vintage steam locomotive with the number 73 prominently displayed on its front
+Background: The background consists of lush greenery and a rocky hillside, suggesting a rural or mountainous setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001106.jpg
+Foreground: The foreground of the image features a person standing at a kitchen counter
+Background: The background includes a window, a rice cooker, and wooden cabinets
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001112.jpg
+Foreground: The foreground features a brown horse with a distinctive white stripe on its face, standing near a person
+Background: The background consists of a vast, open landscape with rolling hills and a clear blue sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001115.jpg
+Foreground: The foreground features two chefs in white uniforms working at a kitchen counter with various cooking utensils and ingredients
+Background: The background shows a well-equipped kitchen with shelves stocked with supplies and a window providing natural light
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001118.jpg
+Foreground: The foreground of the image features a sleek, modern train with a distinctive red stripe and the letters "ICE" on its side, positioned on a railway track
+Background: In the background, there is a large, open train station with a metal and glass roof structure, and a building with the sign "DEW" visible in the distance
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001119.jpg
+Foreground: The foreground features a person riding a small motorcycle with a child seated in front
+Background: The background includes a garden with greenery and vibrant pink flowers
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001133.jpg
+Foreground: The foreground of the image features a cozy seating area with patterned sofas and chairs, arranged around small tables with decorative items
+Background: The background showcases a large mural depicting a fleet of sailing ships on the water
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001134.jpg
+Foreground: The foreground features three individuals posing closely together, with one wearing a black sleeveless top and the other two in dark-colored attire
+Background: The background shows a dimly lit indoor setting with a blurred view of a room, possibly a gathering or event space
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001137.jpg
+Foreground: The foreground of the image features a small black and white dog sitting among green leaves and brown fallen leaves
+Background: The background consists of a natural setting with more green foliage and scattered leaves on the ground
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001143.jpg
+Foreground: The foreground of the image features a wooden desk with a computer monitor, a lamp, and a telephone
+Background: The background includes a bookshelf filled with books and a window with blinds
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001147.jpg
+Foreground: The foreground of the image features two individuals seated in chairs, engaged in conversation
+Background: The background includes a window with a view of the outside and a decorative painting on the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001158.jpg
+Foreground: The foreground of the image features two motorcyclists performing stunts in an open parking lot
+Background: In the background, there is a cityscape with buildings, trees, and a body of water
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001164.jpg
+Foreground: The foreground of the image features a vintage steam locomotive with a prominent blue and gold design, positioned on a set of tracks
+Background: In the background, there is a vast open landscape with grassy fields and distant hills under a clear sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001169.jpg
+Foreground: The foreground of the image features a vintage steam locomotive with a passenger car, positioned on a railway track
+Background: In the background, there are trees and a building under a clear sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001171.jpg
+Foreground: The foreground of the image features a brown horse with a braided mane and a long tail
+Background: In the background, there are tents and people gathered, suggesting an outdoor event or market
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001182.jpg
+Foreground: The foreground of the image features a person standing next to a black and white dog on a leash
+Background: In the background, there is a chain-link fence and a construction site with a red scaffolding structure
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001188.jpg
+Foreground: The foreground features a person playing a guitar with a microphone stand nearby
+Background: The background is dark and hazy, with a spotlight illuminating the scene
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001189.jpg
+Foreground: The foreground of the image features a person holding a microphone and a keyboard, suggesting a musical performance
+Background: The background includes a dimly lit room with various musical equipment and a crowd, indicating a live concert setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001190.jpg
+Foreground: The foreground of the image features a person holding a newspaper with a bold headline
+Background: The background consists of an airplane interior with a seat and window visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001196.jpg
+Foreground: The foreground of the image features a campsite with a fire pit and two children standing nearby
+Background: The background consists of a dense forest with tall trees and a white camper van parked on a grassy area
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001206.jpg
+Foreground: The foreground features a person with light-colored hair and sunglasses, wearing a red sweater and a red necklace
+Background: The background shows a residential area with houses and trees under a clear blue sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001208.jpg
+Foreground: The foreground of the image features a white car driving on a road with a stop sign and some greenery
+Background: The background showcases three distinctive towers with spherical and spire-like structures against a clear blue sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001215.jpg
+Foreground: The foreground features a person sitting at a desk with a laptop, a mouse, and some papers
+Background: The background includes a window and a wall with a light switch
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001219.jpg
+Foreground: The foreground features a person wearing a white jacket and blue jeans, with their back to the camera
+Background: The background shows a dimly lit room with a ceiling and some indistinct objects
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001235.jpg
+Foreground: The foreground of the image features a person standing next to a white horse, holding a lead rope
+Background: In the background, there are spectators seated in a stadium setting, with advertisements visible on the walls
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001238.jpg
+Foreground: The foreground features two dogs sleeping comfortably on a couch covered with a white blanket
+Background: The background shows a dark room with a window reflecting some light
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001245.jpg
+Foreground: The foreground features a person wearing a red jacket and a child in a pink outfit, both holding onto a tree trunk
+Background: The background is dark, with faint outlines of trees and a fence visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001263.jpg
+Foreground: The foreground of the image features two individuals seated on a red bench with a scenic view through a window
+Background: The background shows an outdoor area with greenery and other people, suggesting a park or recreational setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001267.jpg
+Foreground: The foreground features a cat lying on a quilt, playing with a string or cord
+Background: The background consists of a colorful patchwork quilt with various geometric patterns
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001272.jpg
+Foreground: The foreground of the image shows a group of people examining various items displayed on tables, including bedding and pillows
+Background: In the background, there are trees and a building, with additional goods and people visible, suggesting an outdoor market or distribution area
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001274.jpg
+Foreground: The foreground of the image features a sleek black sports car parked on a paved surface
+Background: The background consists of dense green foliage, likely a hedge or trees, providing a natural backdrop
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001278.jpg
+Foreground: The foreground of the image features a white horse harnessed to a carriage, standing on a city street
+Background: In the background, there are bright lights and billboards, indicating a busy urban area with nightlife
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001285.jpg
+Foreground: The foreground of the image features a black and white dog standing in a grassy area
+Background: The background consists of a wooded area with leafless trees and some greenery
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001294.jpg
+Foreground: The foreground features a band performing under a white tent, with musicians playing instruments such as guitars and a drum set
+Background: In the background, there are trees and a building partially visible, suggesting an outdoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001299.jpg
+Foreground: The foreground features a person wearing a white jacket with a brown collar and a green scarf
+Background: The background consists of a plain wall and a window with curtains
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001302.jpg
+Foreground: The foreground features a person diving off a pier into the water
+Background: The background showcases a sunset with a vibrant sky and distant mountains
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001310.jpg
+Foreground: The foreground features a person holding two children, one of whom is holding a green ring
+Background: The background shows a glass door with a sign indicating an authorized service center
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001325.jpg
+Foreground: The foreground features two individuals engaged in conversation, one holding a red cup
+Background: The background includes a window with blinds and a string of lights
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001329.jpg
+Foreground: The foreground features a shiny red vintage car parked on the street
+Background: In the background, there are palm trees and a bustling street with people walking and various buildings
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001335.jpg
+Foreground: The foreground of the image features a gray cat with a yellow collar, looking directly at the camera
+Background: The background consists of a blurred, indistinct area that appears to be an outdoor setting with soft lighting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001346.jpg
+Foreground: The foreground features two individuals seated closely together, one wearing a black hat and scarf, and the other in a red vest
+Background: The background consists of a blue wall with a gold trim and a decorative pattern
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001357.jpg
+Foreground: The foreground of the image features a curled-up orange cat sleeping on a stack of papers
+Background: The background consists of a green wall with a black section beneath it
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001358.jpg
+Foreground: The foreground of the image features a train track with lush green grass and a few small plants growing beside it
+Background: In the background, there are trees, a church steeple, and a few buildings under a clear blue sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001359.jpg
+Foreground: The foreground features a brown cow with a red collar, standing on a grassy area
+Background: In the background, there are trees and a parked car behind a wooden fence
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001373.jpg
+Foreground: The foreground features four individuals sitting closely together on a couch, dressed in dark clothing
+Background: The background includes a wall with several posters and a jacket draped over the back of the couch
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001382.jpg
+Foreground: The foreground of the image features a person standing next to a horse, holding its reins
+Background: The background consists of a stack of hay bales
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001383.jpg
+Foreground: The foreground of the image features a wicker chair with a blue cushion and a person sitting on it
+Background: The background includes a wall with a framed picture and a light switch
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001385.jpg
+Foreground: The foreground of the image features three people sitting on a green bench, with a wooden railing in front of them
+Background: The background consists of a wooden structure with a window and some items leaning against the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001399.jpg
+Foreground: The foreground of the image features a red sofa with several cushions and a wooden coffee table with a remote control and magazines
+Background: The background includes a fireplace with a mirror above it, a wall-mounted banner, and a small side table with a kettle
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001408.jpg
+Foreground: The foreground features a grassy area with yellow flowers and a person standing
+Background: The background consists of a serene lake surrounded by dense evergreen trees under a clear blue sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001413.jpg
+Foreground: The foreground of the image features a person wearing a green hoodie, sitting at a table with a box of Oreo cookies and a cup of milk
+Background: The background includes a window with blinds and a tiled wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001414.jpg
+Foreground: The foreground features a black cat sitting on a red carpet, illuminated by sunlight streaming through a window
+Background: The background includes a window with white frames and a radiator covered by a wooden grate
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001419.jpg
+Foreground: The foreground features a group of people standing in front of a stone structure with lion sculptures
+Background: The background showcases a city skyline with tall buildings and a cloudy sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001434.jpg
+Foreground: The foreground features a dining table set with a white tablecloth, blue placemats, and lit candles
+Background: In the background, there is a living area with a sofa, a chandelier, and framed artwork on the walls
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001440.jpg
+Foreground: The foreground features two people standing close together, with one wearing a maroon jacket and the other in a light blue jacket
+Background: In the background, there are parked cars and a row of residential houses lining the street
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001446.jpg
+Foreground: The foreground of the image features a black BMW sedan parked on a street
+Background: In the background, there are buildings and a sidewalk with a few pedestrians and street signs visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001454.jpg
+Foreground: The foreground features a person playing a violin with a bow, wearing a dark t-shirt and glasses
+Background: The background shows a tent-like structure with a light-colored fabric and some blurred objects, suggesting an outdoor setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001455.jpg
+Foreground: The foreground features a plate with desserts and a gift bag on a red tablecloth
+Background: The background shows an indoor setting with wooden elements and a person partially visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001460.jpg
+Foreground: The foreground of the image features a potted plant with green leaves and white spots, placed on a wooden surface
+Background: The background consists of a shadow cast by sunlight filtering through a window, creating a pattern on the floor
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001461.jpg
+Foreground: The foreground features a small dog walking across a wooden floor with a toy nearby
+Background: In the background, there is a person sitting on a couch with a backpack, and a hallway leading to other rooms
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001462.jpg
+Foreground: The foreground features a child wearing a blue jacket kneeling beside a unique, spiky plant
+Background: The background consists of rocky terrain and sparse vegetation
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001464.jpg
+Foreground: The foreground features a white horse and rider mid-jump over a Land Rover-branded obstacle
+Background: The background consists of a lush, green forest and a group of spectators standing behind a fence
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001467.jpg
+Foreground: The foreground features a small lemonade stand with a bright green sign advertising lemonade for 50 cents and free cookies
+Background: In the background, there is a stone wall and a potted plant with red flowers
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001479.jpg
+Foreground: The foreground of the image features a brown dachshund sitting on a wooden floor
+Background: The background consists of a white wall with a shadow cast by the dog
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001488.jpg
+Foreground: The foreground of the image features a person lying down, wearing a striped shirt
+Background: The background consists of a dark-colored cushion or pillow
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001493.jpg
+Foreground: The foreground features four women dressed in elegant black dresses, standing closely together
+Background: The background shows a dimly lit indoor setting with a staircase and other people in formal attire, suggesting a social event or gathering
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001498.jpg
+Foreground: The foreground of the image features a dog lying on a rocky surface, with its leash attached to a tree
+Background: The background consists of a forested area with trees and greenery
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001501.jpg
+Foreground: The foreground features a group of people joyfully jumping in the air on a sandy beach
+Background: The background shows the ocean with gentle waves and a clear sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001510.jpg
+Foreground: The foreground features a child seated in a car seat, wearing a red hoodie and a black cap
+Background: The background shows the interior of a car, including the seatbelt and part of the vehicle's upholstery
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001525.jpg
+Foreground: The foreground of the image features two motorcycles parked on a grassy area with a stone wall behind them
+Background: In the background, there is a lush, green hillside with trees and grazing animals
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001533.jpg
+Foreground: The foreground features three people standing near a vehicle with its trunk open, holding bags
+Background: The background consists of a dry, rocky landscape with sparse vegetation under a clear blue sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001538.jpg
+Foreground: The foreground of the image features a band performing on stage, with musicians playing instruments such as a guitar and a keyboard
+Background: The background includes stage lighting and a backdrop with a scenic view, creating an atmospheric setting for the performance
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001550.jpg
+Foreground: In the foreground, a person is lying on a couch covered with a white blanket, accompanied by a dog lying on the floor
+Background: The background features a wooden floor and part of a green sofa
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001563.jpg
+Foreground: The foreground of the image features two children sitting on white folding chairs, dressed in formal attire
+Background: In the background, there are more chairs and people, suggesting an outdoor event or gathering
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001576.jpg
+Foreground: The foreground of the image features a person sitting in an office chair, wearing a dark jacket with a red stripe
+Background: The background includes a cluttered desk with a computer monitor, telephone, and various office supplies
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001577.jpg
+Foreground: In the foreground, a person is interacting with two dolls on a large wooden wheel
+Background: In the background, there is a stone building with a conical roof and a few windows
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001582.jpg
+Foreground: The foreground features two individuals standing close together in a snowy setting
+Background: The background shows a dimly lit street with buildings and trees, illuminated by streetlights
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001591.jpg
+Foreground: The foreground of the image shows a table set with various dishes, including a large fish being served
+Background: In the background, there are people seated at tables in what appears to be a restaurant setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001592.jpg
+Foreground: The foreground of the image features a calico cat sitting on a wooden floor near a screen door
+Background: The background shows a brick exterior wall and a glimpse of the outdoor area beyond the door
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001601.jpg
+Foreground: The foreground of the image features a sheep standing among tall, dry grass and thistles
+Background: The background shows a body of water with waves gently lapping against the shore
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001609.jpg
+Foreground: The foreground features a person holding a blue towel, with a pink bag and a brown seat visible
+Background: The background shows a bus interior with a window and another passenger seated
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001610.jpg
+Foreground: The foreground of the image features a calico cat with a fluffy tail, sniffing the floor
+Background: The background consists of light-colored wooden kitchen cabinets and a tiled floor with a black and white pattern
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001615.jpg
+Foreground: The foreground of the image features a child standing in front of a large piece of paper with various drawings and writings on it
+Background: The background consists of a wooden wall and part of a door frame, with some additional papers and drawings visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001617.jpg
+Foreground: The foreground of the image features two people sitting in chairs, looking out towards the water
+Background: The background showcases a calm sea with a small boat and a grassy area leading to the water
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001631.jpg
+Foreground: The foreground features a custom motorcycle with a sidecar, showcasing large wheels and a wooden barrel
+Background: In the background, there is a store with a green and white sign, and several people are standing around, observing the motorcycle
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001632.jpg
+Foreground: The foreground features a red sports car in motion on a racetrack
+Background: The background consists of a blurred landscape with a white barrier and a cloudy sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001641.jpg
+Foreground: The foreground of the image features a cluttered desk with a computer, printer, and various office supplies
+Background: The background includes a window with blinds and a wall with a decorative border
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001643.jpg
+Foreground: The foreground features a person sitting on a motorcycle with a helmet hanging from the handlebars
+Background: The background shows a beach with the ocean and waves gently lapping the shore
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001645.jpg
+Foreground: The foreground features a horse with a bridle and a person standing beside it
+Background: The background consists of a house and trees, creating a rural setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001653.jpg
+Foreground: The foreground of the image features a black cow standing in a lush green field
+Background: In the background, there are several cows grazing and resting, with distant mountains and a clear sky
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001661.jpg
+Foreground: The foreground of the image features a person wearing a blue jacket with a fluffy hood
+Background: The background consists of a blurred outdoor setting with a brick wall and some natural elements
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001666.jpg
+Foreground: The foreground features a colorful baby car seat with a baby inside, surrounded by two adults sitting on the floor
+Background: In the background, there is a staircase leading to another level, with a calendar hanging on the wall and various household items visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001670.jpg
+Foreground: The foreground features a person with blonde hair wearing a black top
+Background: In the background, there is a statue of a religious figure holding a bouquet of flowers
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001690.jpg
+Foreground: The foreground features two individuals riding small motorcycles on a paved street
+Background: The background shows a large metal shutter door with a "No Parking" sign and a person standing nearby
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001691.jpg
+Foreground: The foreground of the image features a yellow and black motorcycle with a helmet placed on the seat
+Background: The background consists of a smooth, gray asphalt surface, likely a parking lot or road
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001692.jpg
+Foreground: The foreground features a person wearing a patterned hat and sunglasses, with long, wavy hair
+Background: The background shows a room with a door frame and a table with various items on it
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001694.jpg
+Foreground: The foreground of the image features a beige sofa with several cushions and a pink patterned ottoman
+Background: The background includes a large window with white and pink curtains, and a white armchair
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001699.jpg
+Foreground: The foreground features a person sitting on a small blue motorcycle
+Background: In the background, there is a parking lot with a tree and a person standing nearby
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001704.jpg
+Foreground: The foreground of the image features a wooden desk with a laptop and a monitor displaying various windows and documents
+Background: The background consists of office cubicle walls with some papers and cables visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001708.jpg
+Foreground: The foreground features a ginger cat and a brown and white dog sitting closely together on a black leather surface
+Background: In the background, there is a dark-colored chair with a visible armrest
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001709.jpg
+Foreground: In the foreground, a child is sitting on the floor surrounded by various kitchen items, including a large metal pot and a colander
+Background: The background features a white cabinet with open shelves and a wooden floor
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001710.jpg
+Foreground: The foreground of the image features three individuals standing in front of a train car
+Background: The background includes a train car and some buildings, suggesting an industrial or railway setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001716.jpg
+Foreground: The foreground of the image features a green off-road vehicle parked on a rocky shoreline
+Background: The background showcases a lush, green hillside with a clear blue sky above
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001724.jpg
+Foreground: The foreground of the image features a person holding a baby, with another individual standing beside them
+Background: The background consists of a dark curtain and a brown leather couch
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001729.jpg
+Foreground: The foreground features a person riding a horse in an open field
+Background: The background includes a crowd of spectators seated under a covered area with banners
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001735.jpg
+Foreground: The foreground features a couple dressed in formal attire, with the man wearing a tuxedo and the woman in an elegant dress
+Background: The background consists of a white house with a window and greenery, including bushes and flowers
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001741.jpg
+Foreground: The foreground of the image features a cat sleeping on top of a stack of electronic devices
+Background: In the background, there is a shelf with various items, including a stereo system and some red objects
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001746.jpg
+Foreground: The foreground of the image features a person standing on a pedestrian crossing
+Background: The background shows a busy street with cars and a historic building
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001751.jpg
+Foreground: The foreground of the image features a wicker chair and a wooden chair, with a rug on the floor
+Background: In the background, there is a person sitting in an office chair, reading a book, with a bookshelf filled with books nearby
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001761.jpg
+Foreground: The foreground features a person wearing a red plaid kilt and matching knee-high socks, standing on a tiled surface
+Background: The background consists of a dark-colored wall with a door and some greenery visible at the bottom
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001775.jpg
+Foreground: The foreground features two individuals standing close together, one wearing a dark shirt and the other in a light-colored top
+Background: The background consists of lush green foliage and tree branches, creating a natural and serene setting
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001781.jpg
+Foreground: The foreground of the image features a cluttered living room with a couch, a television, and various household items
+Background: In the background, there are large windows with blinds, a wall clock, and decorative plates on the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001783.jpg
+Foreground: The foreground of the image features an intricately carved wooden rocking chair with a dark finish and visible wear
+Background: The background is a plain, dark-colored surface that contrasts with the chair, highlighting its details
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001787.jpg
+Foreground: The foreground of the image features a brown couch with a textured fabric
+Background: In the background, there is a bedroom with a wooden nightstand and a desk lamp, along with a partially open closet
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001789.jpg
+Foreground: The foreground features a large, white reindeer sculpture with golden antlers and a red ribbon around its neck
+Background: In the background, there is a decorated Christmas tree and a multi-level shopping mall interior with various shops and lights
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001797.jpg
+Foreground: In the foreground, a person dressed in a costume with a crown is holding a dog wearing a small crown
+Background: In the background, there is a brick building with windows and a tiled roof
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001811.jpg
+Foreground: The foreground features a group of performers dressed in elaborate Renaissance costumes, including a man in a black and gold outfit and women in colorful dresses
+Background: The background consists of a building facade with arched windows and a sign that reads "Grand
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001832.jpg
+Foreground: The foreground features a person sitting in a simulated driving setup, holding a steering wheel
+Background: In the background, there are arcade machines and seating areas, indicating a gaming or entertainment venue
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001834.jpg
+Foreground: The foreground features a group of people standing on a grassy area near a stone wall by the water
+Background: In the background, there are trees, a pathway, and a large building with a distinctive architectural style
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001836.jpg
+Foreground: In the foreground, a ginger cat is nestled inside a black plastic bag
+Background: The background features a dark, indistinct area with a portion of another animal's fur visible
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001842.jpg
+Foreground: The foreground features a vintage vehicle with a prominent grille and headlights
+Background: In the background, there is a wooden fence and some trees
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001845.jpg
+Foreground: The foreground features a DJ with turntables and a mixer, actively engaged in playing music
+Background: The background consists of a brick wall and dim lighting, creating an intimate atmosphere typical of a club or music venue
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001852.jpg
+Foreground: In the foreground, a child is standing next to a microwave and a small refrigerator
+Background: In the background, there is a doorway leading to a staircase with wooden railings
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001854.jpg
+Foreground: The foreground of the image shows a person sitting in a car with a white dog resting on their lap
+Background: The background features a road with a grassy area and some puddles visible through the car window
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001865.jpg
+Foreground: The foreground of the image features a wooden shelf with various potted plants and glass cups
+Background: The background shows a window with a view of trees and a dimly lit outdoor area
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001866.jpg
+Foreground: The foreground of the image features a blue and silver Amtrak train stopped at a station platform
+Background: In the background, there are trees and a clear blue sky, indicating a bright and sunny day
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001872.jpg
+Foreground: The foreground of the image features a dog with a white and gray coat standing on a sandy beach
+Background: In the background, the ocean is visible with waves gently rolling onto the shore, and a distant shoreline can be seen
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001876.jpg
+Foreground: The foreground features a cat peeking out from a hole in a fabric surface
+Background: The background consists of a dark, indistinct area that contrasts with the cat's position in the foreground
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001880.jpg
+Foreground: The foreground of the image features the back of an old CRT television with visible ventilation grilles and a speaker
+Background: In the background, there is a wooden floor and part of a room with various objects, including a shelf with glassware
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001881.jpg
+Foreground: In the foreground, two individuals are seated, one wearing a white jacket and the other in a brown coat with a fur-lined hood
+Background: The background features a dark, indistinct setting that suggests an outdoor environment
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001882.jpg
+Foreground: The foreground features a child dressed in a suit standing barefoot on a wooden floor
+Background: The background includes a closed door and a light switch on the wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001888.jpg
+Foreground: The foreground of the image features a person sitting at a desk with a computer, keyboard, and mouse
+Background: The background shows a typical office environment with cubicles and other desks
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001894.jpg
+Foreground: The foreground features a person wearing a red sweater sitting in front of a fishbowl
+Background: The background includes a wall with a framed picture and various household items
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001896.jpg
+Foreground: The foreground of the image features a green sofa with a patterned throw blanket and a white armchair
+Background: In the background, there is a doorway leading to another room and a wall with a framed picture of a lighthouse
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001903.jpg
+Foreground: The foreground features two individuals standing close together, one wearing a striped shirt and the other in a red top, both with bags slung over their shoulders
+Background: In the background, there is a body of water with a cityscape visible in the distance, including tall buildings and a bridge
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001911.jpg
+Foreground: The foreground of the image features a curling rink with players and officials standing around, preparing for a match
+Background: The background consists of tiered seating filled with spectators and a scoreboard displaying the ongoing match details
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001921.jpg
+Foreground: The foreground of the image features a small, sleeping puppy resting on a person's lap
+Background: The background includes a bookshelf with various books and a dark-colored couch
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001926.jpg
+Foreground: The foreground of the image features a blue and yellow train engine on a railway track
+Background: The background consists of a building with green doors and windows, along with various signs and advertisements
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001929.jpg
+Foreground: In the foreground, a group of people are gathered around a table with a white tablecloth, engaging in conversation
+Background: The background features a lush garden with greenery and a stone wall
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001937.jpg
+Foreground: The foreground features a person wearing a black outfit with pink and gold patterns, seated in a chair
+Background: The background consists of bookshelves filled with various books and a wooden table
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001941.jpg
+Foreground: The foreground of the image features a close-up of a vehicle's tire and wheel, with a rugged tire design and a silver hubcap
+Background: In the background, there is a dirt path leading up a hill, bordered by greenery and trees
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001947.jpg
+Foreground: The foreground features a person holding a green watering can
+Background: The background includes stacked wooden frames and a fan
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001955.jpg
+Foreground: The foreground of the image features a person wearing a knitted orange hat and a green shirt
+Background: The background includes a room with a couch, a framed picture on the wall, and a bookshelf filled with books
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001956.jpg
+Foreground: The foreground of the image features a train car covered in graffiti, including a large, stylized face and bold lettering
+Background: The background consists of a blurred industrial setting with additional train cars and structures
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001967.jpg
+Foreground: The foreground features a person lying down, holding a phone
+Background: In the background, there is a room with a lamp, a desk, and various items scattered around
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001980.jpg
+Foreground: In the foreground, a child is holding a fluffy white kitten
+Background: The background features a beige wall and a wicker basket
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001982.jpg
+Foreground: The foreground features a person wearing a striped shirt with their hand resting on their cheek
+Background: The background consists of a wooden panel with a grid-like pattern and a light source illuminating the area
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_001997.jpg
+Foreground: The foreground of the image features a cluttered desk with a computer monitor, keyboard, and various office supplies
+Background: The background includes a second desk with a computer setup, a chair, and shelves filled with books and other items
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002001.jpg
+Foreground: The foreground features a person wearing a striped jacket and a white shirt, with a necklace visible
+Background: The background includes a wall with partial text and a decorative element
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002009.jpg
+Foreground: The foreground features two individuals sitting closely together in a transparent bubble chair with a white cushion
+Background: In the background, there is a blue wall and a dimly lit area with people standing and conversing
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002023.jpg
+Foreground: The foreground of the image features a person wearing a dark t-shirt and sunglasses, sitting at an outdoor table
+Background: The background includes a patio setting with greenery, other people, and a bright orange umbrella providing shade
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002032.jpg
+Foreground: The foreground features a dining table with glasses of Coca-Cola, menus, and a napkin dispenser
+Background: In the background, there is a restaurant setting with a booth, a hanging light fixture, and a potted plant
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002033.jpg
+Foreground: The foreground of the image features a dog running through water, carrying a green ball in its mouth
+Background: The background consists of a body of water with reflections and some scattered aquatic plants
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002056.jpg
+Foreground: The foreground features a person wearing a black knit hat and a red face mask with a patterned scarf underneath
+Background: The background shows a wooden surface with a blurred figure in the distance
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002058.jpg
+Foreground: The foreground features a person seated at a table with various electronic equipment, including pedals and cables
+Background: In the background, there are musical instruments and amplifiers, suggesting a setting related to music or sound production
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002061.jpg
+Foreground: In the foreground, a person is shearing a sheep on a blue tarp
+Background: The background features a wooden fence and a grassy area with trees
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002062.jpg
+Foreground: The foreground of the image features a silver convertible car parked on a gravel driveway
+Background: In the background, there is a green SUV parked next to a garage, with trees and a pathway visible further back
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002066.jpg
+Foreground: The foreground of the image features a computer monitor with various stickers and a small figurine on top
+Background: The background consists of a purple wall with a desk holding a lamp and other office supplies
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002067.jpg
+Foreground: The foreground of the image features a person holding a cat with a distinctive white and brown coat
+Background: The background consists of a striped couch with a floral pattern
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002080.jpg
+Foreground: The foreground features a person standing close to a framed painting
+Background: The background consists of a plain white wall with the painting hanging on it
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002093.jpg
+Foreground: The foreground features a child wearing a light-colored sweater with a cartoon design
+Background: The background shows a brick wall and a window with a reflection of the child
+
+Image: data\VOCdevkit2012\VOC2012\JPEGImages\2008_002094.jpg
+Foreground: The foreground of the image shows a person wearing a blue jacket and black pants, standing next to a large cylindrical tank
